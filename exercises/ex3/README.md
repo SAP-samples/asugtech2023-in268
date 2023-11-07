@@ -34,7 +34,7 @@ Click on <b>Configure</b>
 10. Switch to tab <b>More</b> and select <b>"XML to JSON Converter" as Type</b>.
 <br>![image](/exercises/ex3/images/ex3-10.png)
 
-11. <b>Enable "Suppress JSON Root Element"</b> and press <b>Save</b>.
+11. <b>Enable "Suppress JSON Root Element"</b> make sure the "Use Namespace Mapping" is not checked and press <b>Save</b>.
 <br>![image](/exercises/ex3/images/ex3-11.png)
 
 12. Press <b>Close</b> to close the Message box and <b>close</b> the configure Pop-Up as well.
