@@ -103,8 +103,8 @@ After completing these steps you will be able to test the interface and get the 
 <br>![image](/exercises/ex2/images/Insomnia-7.png)  
 
 8. Provide following credentials:<br>
-<b>Username</b>: sb-0f0c8c67-655f-4cf4-beff-98b7fdbdaecc!b3814|it-rt-teched23blr11!b68<br>
-<b>Password</b>: 5abe805e-e0e6-42a0-864c-bc8bbba360b5$rFhomkIHs7BNnWic5VWMAz1asCp5uR5LRIX0Z62n7lw=
+<b>Username</b>: sb-f6c12e3b-5fb8-43b5-8b73-94a86058e8be!b212998|it-rt-asug23-01!b56186<br>
+<b>Password</b>: c44f99a4-2bf3-4512-b8dc-eca19ee92904$VD-H8nyOnEr4TywlCMPUhDmkC6aQZXL9soJeLHLpwIk=
 <br>![image](/exercises/ex2/images/Insomnia-8.png)  
 
 
